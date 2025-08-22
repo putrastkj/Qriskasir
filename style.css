@@ -1,0 +1,38 @@
+/* Memberikan tinggi maksimal pada daftar produk dan keranjang agar bisa di-scroll */
+#product-list-container {
+    max-height: calc(100vh - 220px); /* Sesuaikan angka 220px jika perlu */
+    overflow-y: auto;
+    padding-right: 8px; /* Ruang untuk scrollbar */
+}
+
+#cart-items {
+    max-height: 250px; /* Tinggi maksimal keranjang sebelum scroll */
+    overflow-y: auto;
+    padding-right: 8px;
+}
+
+/* Efek transisi yang lebih halus untuk kartu produk */
+.product-card {
+    transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
+}
+
+.product-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+}
+
+/* Scrollbar yang lebih modern (opsional, tapi disarankan) */
+::-webkit-scrollbar {
+    width: 8px;
+}
+::-webkit-scrollbar-track {
+    background: #f1f1f1;
+    border-radius: 10px;
+}
+::-webkit-scrollbar-thumb {
+    background: #888;
+    border-radius: 10px;
+}
+::-webkit-scrollbar-thumb:hover {
+    background: #555;
+}
