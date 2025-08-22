@@ -23,6 +23,10 @@
 
 ## 🖼️ Tampilan Aplikasi
 
+### Video Demo
+[![Lihat video lengkap](demo.gif)](https://youtu.be/atHxM4jHFcQ)
+[![Tonton di YouTube](https://i9.ytimg.com/vi_webp/atHxM4jHFcQ/mq2.webp?sqp=CPTmn8UG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGEIgUyhlMA8=&rs=AOn4CLCCZZ3jBuf7Fc7uABzqJJY5WrqeJw)](https://youtu.be/atHxM4jHFcQ "Tonton di YouTube")
+
 ### Dashboard
 ![Dashboard](https://dummyimage.com/800x400/ddd/000.png&text=Screenshot+Dashboard)
 
