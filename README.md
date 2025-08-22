@@ -23,9 +23,6 @@
 
 ## 🖼️ Tampilan Aplikasi
 
-> Tambahkan screenshot hasil aplikasi di sini.  
-> Contoh (silakan ganti dengan screenshot dari aplikasi nyata):
-
 ### Dashboard
 ![Dashboard](https://dummyimage.com/800x400/ddd/000.png&text=Screenshot+Dashboard)
 
