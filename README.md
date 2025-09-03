@@ -31,7 +31,7 @@
 ![Dashboard](https://github.com/putrastkj/Qriskasir/blob/main/uploads/tampilanqriskasir.jpg)
 
 ### Dashboard
-![Dashboard](https://dummyimage.com/800x400/ddd/000.png&text=Screenshot+Dashboard)
+![Dashboard](https://github.com/putrastkj/Qriskasir/blob/main/uploads/dashboard.png)
 
 ### Manajemen Produk
 ![Produk](https://dummyimage.com/800x400/ddd/000.png&text=Screenshot+Produk)
