@@ -34,10 +34,13 @@
 ![Dashboard](https://github.com/putrastkj/Qriskasir/blob/main/uploads/dashboard.png)
 
 ### Manajemen Produk
-![Produk](https://dummyimage.com/800x400/ddd/000.png&text=Screenshot+Produk)
+![Produk](https://github.com/putrastkj/Qriskasir/blob/main/uploads/manajemen_produk.png)
 
 ### Kasir & Struk
-![Struk](https://dummyimage.com/800x400/ddd/000.png&text=Screenshot+Kasir+%2B+Struk)
+![Struk](https://github.com/putrastkj/Qriskasir/blob/main/uploads/kasir.png)
+
+### Tampilan Layar Pembeli
+![Struk](https://github.com/putrastkj/Qriskasir/blob/main/uploads/layar_pelanggan.png)
 
 ---
 
